@@ -69,7 +69,7 @@ Inconvénients :
 
 # AS
 
-## Glasshfish Community
+## Glasshfish
 
 Avantages :
 
@@ -81,16 +81,27 @@ Inconvénients :
 - Crashs possible.
 - Documentation manquante.
 - Peu utilisé.
+- Pas de support technique.
 
-## Eclipse Glassfish
+## Payara
 
 Avantages :
 
+- Bonne communauté.
+- Léger et performant.
+- Bonne documentation.
+- Bonne interface de configuration.
+
 Inconvénients :
+
+- Support technique passable.
 
 ## WildFly
 
 Avantages :
+
+- Gratuit.
+- Migration facilitée vers JBOSS.
 
 Inconvénients :
 
@@ -123,22 +134,28 @@ Inconvénients :
 - Demande une machine puissante.
 - Long à démarrer.
 
-## Jetty
-
-Avantages :
-
-Inconvénients :
-
-## Tomcat
+## Eclipse Jetty
 
 Avantages :
 
 - Léger.
 
+Inconvénients :
+
+- Ne prend pas en charge toute la spécification Java EE.
+
+## Apache Tomcat
+
+Avantages :
+
+- Léger.
+- Libre.
+- Orienté applications web.
 
 Inconvénients :
 
 - Ne prend pas en charge toute la spécification Java EE.
+- Configuration en ligne de commande.
 
 # MVC
 
@@ -146,32 +163,28 @@ Inconvénients :
 
 Avantages :
 
+- Gratuit.
+- Grosse communauté.
+- Supporte bien les gros projets.
+- Bonne documentation.
+
 Inconvénients :
+
+- Complexe.
+- Courbe d'apprentissage importante.
 
 ## Struts
 
 Avantages :
 
-Inconvénients :
-
-## Servlets
-
-Avantages :
+- Gratuit.
+- Libre.
+- Orienté applications weB.
 
 Inconvénients :
 
-## JSP
-
-Avantages :
-
-Inconvénients :
-
-## JSF
-
-Avantages :
-
-Inconvénients :
-
+- Configuration lourde.
+- Perte de popularité.
 
 # Moteur de Template
 
@@ -179,10 +192,14 @@ Inconvénients :
 
 Avantages :
 
-Inconvénients :
-
-## Apache Freemaker
-
-Avantages :
+- Populaire.
 
 Inconvénients :
+
+- Complexe.
+- Courbe d'apprentissage importante.
+
+## Apache Freemarker
+
+- Rien trouvé de probant.
+
